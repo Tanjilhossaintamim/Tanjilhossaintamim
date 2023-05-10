@@ -24,8 +24,12 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanjilhossaintamim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanjilhossaintamim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/Tanjilhossaintamim/github-readme-stats">
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Tanjilhossaintamim&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
+</a>&nbsp;  &nbsp; 
+ <a href="https://github.com/Tanjilhossaintamim/convoychat">
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanjilhossaintamim&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
 </div>
 
 
