@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node js**
 
 <!-- - 👨‍💻 All of my projects are available at [https://tanjilhossainportfolio.netlify.app/](https://tanjilhossainportfolio.netlify.app/) -->
 
