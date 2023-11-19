@@ -9,7 +9,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://tanjilhossainportfolio.netlify.app/](https://tanjilhossainportfolio.netlify.app/) -->
 
-- 💬 Ask me about **Python,Javascript,Django.**
+- 💬 Ask me about **React,Javascript,Django.**
 
 - 📧 mail me **tanjilhossain845@gmail.com**
 
