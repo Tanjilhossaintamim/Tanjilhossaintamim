@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/YZ5TNnR/github-header-image.png" align="right" alt="coding" width="1200">
-<img src="https://i.ibb.co/YZ5TNnR/github-header-image.png" align="right" alt="coding" width="1200">
+
 <!-- <h1 align="center">Hi 👋, I'm Tanjil.</h1>
 <h3 align="center">A passionate web developer from Bangladesh.</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjilhossaintamim&label=Profile%20views&color=0e75b6&style=flat" alt="tanjilhossaintamim" width="100" /> </p>
